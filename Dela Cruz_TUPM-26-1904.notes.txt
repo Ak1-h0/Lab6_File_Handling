@@ -1,5 +1,3 @@
-Student: Dela Cruz
-Student ID: TUPM-26-1904
-Seed digit: 4
-ID sum: 22
-Verification value: 202
+version https://git-lfs.github.com/spec/v1
+oid sha256:5212578d91bf3889f9e0894f5166c728d46f1b62e89907240ab83ff2aa17353c
+size 98
