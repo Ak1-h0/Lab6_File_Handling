@@ -1,0 +1,5 @@
+Student: Dela Cruz
+Student ID: TUPM-26-1904
+Seed digit: 4
+ID sum: 22
+Verification value: 202
